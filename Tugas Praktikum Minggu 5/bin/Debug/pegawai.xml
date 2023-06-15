@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Pegawai>
+  <Data>
+    <Username_Pegawai>pegawai1</Username_Pegawai>
+    <Password_Pegawai>pegawai1</Password_Pegawai>
+    <Jumlah_Layanan>0</Jumlah_Layanan>
+    <Total_Penjualan>0</Total_Penjualan>
+  </Data>
+  <Data>
+    <Username_Pegawai>pegawai2</Username_Pegawai>
+    <Password_Pegawai>pegawai2</Password_Pegawai>
+    <Jumlah_Layanan>1</Jumlah_Layanan>
+    <Total_Penjualan>22500</Total_Penjualan>
+  </Data>
+  <Data>
+    <Username_Pegawai>pegawai3</Username_Pegawai>
+    <Password_Pegawai>pegawai3</Password_Pegawai>
+    <Jumlah_Layanan>2</Jumlah_Layanan>
+    <Total_Penjualan>19500</Total_Penjualan>
+  </Data>
+  <Data>
+    <Username_Pegawai>pegawai4</Username_Pegawai>
+    <Password_Pegawai>pegawai4</Password_Pegawai>
+    <Jumlah_Layanan>0</Jumlah_Layanan>
+    <Total_Penjualan>0</Total_Penjualan>
+  </Data>
+</Pegawai>

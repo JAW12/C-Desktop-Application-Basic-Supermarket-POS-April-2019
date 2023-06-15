@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Member>
+  <Data>
+    <Nama_Member>Jem A</Nama_Member>
+    <Username_Member>jem</Username_Member>
+    <Password_Member>jem</Password_Member>
+    <Alamat_Member>Jl. Lebak</Alamat_Member>
+    <Jenis_Member>Gold</Jenis_Member>
+    <Poin>1635</Poin>
+  </Data>
+  <Data>
+    <Nama_Member>Winda Angelina</Nama_Member>
+    <Username_Member>wau</Username_Member>
+    <Password_Member>wau</Password_Member>
+    <Alamat_Member>Jl. Receh</Alamat_Member>
+    <Jenis_Member>Gold</Jenis_Member>
+    <Poin>340</Poin>
+  </Data>
+  <Data>
+    <Nama_Member>Susuk Hendra</Nama_Member>
+    <Username_Member>susuk</Username_Member>
+    <Password_Member>susuk</Password_Member>
+    <Alamat_Member>Xuxuk Ai</Alamat_Member>
+    <Jenis_Member>Gold</Jenis_Member>
+    <Poin>0</Poin>
+  </Data>
+  <Data>
+    <Nama_Member>Lukito Raharjo</Nama_Member>
+    <Username_Member>luk</Username_Member>
+    <Password_Member>luk</Password_Member>
+    <Alamat_Member>Bujank</Alamat_Member>
+    <Jenis_Member>Silver</Jenis_Member>
+    <Poin>0</Poin>
+  </Data>
+  <Data>
+    <Nama_Member>Kevin Hongary</Nama_Member>
+    <Username_Member>kehong</Username_Member>
+    <Password_Member>kehong</Password_Member>
+    <Alamat_Member>Piekoe</Alamat_Member>
+    <Jenis_Member>Silver</Jenis_Member>
+    <Poin>0</Poin>
+  </Data>
+  <Data>
+    <Nama_Member>Wandi Nagata</Nama_Member>
+    <Username_Member>1d</Username_Member>
+    <Password_Member>1d</Password_Member>
+    <Alamat_Member>Unch2</Alamat_Member>
+    <Jenis_Member>Bronze</Jenis_Member>
+    <Poin>0</Poin>
+  </Data>
+</Member>

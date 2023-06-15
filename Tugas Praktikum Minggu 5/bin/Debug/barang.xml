@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Barang>
+  <Data>
+    <Kode_Barang>M01</Kode_Barang>
+    <Nama_Barang>Teh</Nama_Barang>
+    <Jenis_Barang>Minuman</Jenis_Barang>
+    <Harga_Barang>5000</Harga_Barang>
+    <Jumlah_Barang>4</Jumlah_Barang>
+  </Data>
+  <Data>
+    <Kode_Barang>M02</Kode_Barang>
+    <Nama_Barang>Kopi</Nama_Barang>
+    <Jenis_Barang>Minuman</Jenis_Barang>
+    <Harga_Barang>7000</Harga_Barang>
+    <Jumlah_Barang>1</Jumlah_Barang>
+  </Data>
+  <Data>
+    <Kode_Barang>M03</Kode_Barang>
+    <Nama_Barang>Nasi Goreng</Nama_Barang>
+    <Jenis_Barang>Makanan</Jenis_Barang>
+    <Harga_Barang>12000</Harga_Barang>
+    <Jumlah_Barang>3</Jumlah_Barang>
+  </Data>
+  <Data>
+    <Kode_Barang>B01</Kode_Barang>
+    <Nama_Barang>Jeruk</Nama_Barang>
+    <Jenis_Barang>Buah</Jenis_Barang>
+    <Harga_Barang>4000</Harga_Barang>
+    <Jumlah_Barang>3</Jumlah_Barang>
+  </Data>
+  <Data>
+    <Kode_Barang>B02</Kode_Barang>
+    <Nama_Barang>Apel</Nama_Barang>
+    <Jenis_Barang>Buah</Jenis_Barang>
+    <Harga_Barang>7000</Harga_Barang>
+    <Jumlah_Barang>4</Jumlah_Barang>
+  </Data>
+  <Data>
+    <Kode_Barang>B03</Kode_Barang>
+    <Nama_Barang>Mangga</Nama_Barang>
+    <Jenis_Barang>Buah</Jenis_Barang>
+    <Harga_Barang>15000</Harga_Barang>
+    <Jumlah_Barang>2</Jumlah_Barang>
+  </Data>
+  <Data>
+    <Kode_Barang>A01</Kode_Barang>
+    <Nama_Barang>Pensil</Nama_Barang>
+    <Jenis_Barang>Alat Tulis</Jenis_Barang>
+    <Harga_Barang>2000</Harga_Barang>
+    <Jumlah_Barang>7</Jumlah_Barang>
+  </Data>
+  <Data>
+    <Kode_Barang>A02</Kode_Barang>
+    <Nama_Barang>Bulpen</Nama_Barang>
+    <Jenis_Barang>Alat Tulis</Jenis_Barang>
+    <Harga_Barang>3000</Harga_Barang>
+    <Jumlah_Barang>0</Jumlah_Barang>
+  </Data>
+  <Data>
+    <Kode_Barang>A03</Kode_Barang>
+    <Nama_Barang>Penggaris</Nama_Barang>
+    <Jenis_Barang>Alat Tulis</Jenis_Barang>
+    <Harga_Barang>6500</Harga_Barang>
+    <Jumlah_Barang>0</Jumlah_Barang>
+  </Data>
+</Barang>
